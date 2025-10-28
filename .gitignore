@@ -1,0 +1,13 @@
+# Machine-specific settings (don't sync across computers)
+.claude/settings.local.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
